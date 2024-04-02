@@ -1,0 +1,84 @@
+********HOME OLD MAP**********
+
+
+<section class="section section-h-map mb-1 overflow-hidden">
+    <div class="map-area">
+        <!-- <span data-bs-toggle="modal" data-bs-target="#exampleModal" class="pulse p1"></span> -->
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal1" class="pulse2 nagpur-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal2" class="pulse america-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal3" class="pulse2 chile-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal4" class="pulse brazil-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal5" class="pulse algeria-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal6" class="pulse2 drcongo-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal7" class="pulse2 cameroon-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal8" class="pulse2 djibouti-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal1" class="pulse2 ethiopia-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal2" class="pulse ghana-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal3" class="pulse2 kenya-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal4" class="pulse liberia-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal5" class="pulse madagascar-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal6" class="pulse2 mauritius-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal7" class="pulse2 mozambique-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal8" class="pulse2 nigeria-tic"></span>
+
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal1" class="pulse2 rwanda-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal2" class="pulse southafrica-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal3" class="pulse2 sierraleone-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal4" class="pulse sudan-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal5" class="pulse tanzania-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal6" class="pulse2 zambia-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal7" class="pulse2 uganda-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal8" class="pulse2 zimbabwe-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal1" class="pulse2 botswana-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal2" class="pulse hongkong-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal3" class="pulse2 indonesia-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal4" class="pulse myanmar-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal5" class="pulse philippines-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal6" class="pulse2 thailand-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal7" class="pulse2 australia-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal8" class="pulse2 southkorea-tic"></span>
+
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal1" class="pulse2 bhutan-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal2" class="pulse mongolia-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal3" class="pulse2 georgia-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal4" class="pulse malyasia-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal5" class="pulse nepal-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal6" class="pulse2 srilanka-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal7" class="pulse2 vietnam-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal8" class="pulse2 newzealand-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal1" class="pulse2 cambodia-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal2" class="pulse bangladesh-tic"></span>
+
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal3" class="pulse2 albania-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal4" class="pulse bulgaria-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal5" class="pulse kosovo-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal6" class="pulse2 montenegro-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal7" class="pulse2 sweden-tic"></span>
+        <span data-bs-toggle="modal" data-bs-target="#exampleModal8" class="pulse2 bosnia-tic"></span>
+        <img src="img/world-map.svg" alt="World map" class="img-fluid map">
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-5">
+                <div class="widget content">
+                    <h5 data-aos="fade-up">Overseas Presence in more than</h5>
+                    <h3 class="h2 mb-4" data-aos="fade-up" data-splitting>75 Countries</h3>
+
+                    <ul class="list-unstyled list-locations mb-5" data-aos="fade-left" data-aos-delay="100">
+                        <li><a href="about.php" data-bs-toggle="modal" data-bs-target="#exampleModal1">India</a></li>
+                        <li><a href="#" data-bs-toggle="modal" data-bs-target="#exampleModal5">Turkey</a></li>
+                        <li><a href="#" data-bs-toggle="modal" data-bs-target="#exampleModal3">Zambia</a></li>
+                        <li><a href="#" data-bs-toggle="modal" data-bs-target="#exampleModal8">Nigeria</a></li>
+                        <li><a href="#" data-bs-toggle="modal" data-bs-target="#exampleModal6">South Africa</a></li>
+                        <li><a href="#" data-bs-toggle="modal" data-bs-target="#exampleModal7">Australia</a></li>
+                        <li><a href="#" data-bs-toggle="modal" data-bs-target="#exampleModal4">Ghana</a></li>
+                        <li><a href="#" data-bs-toggle="modal" data-bs-target="#exampleModal2">Tanzania</a></li>
+                    </ul>
+
+                    <!-- <a data-aos="fade-up" data-aos-delay="200" href="#" class="circle-link cl-dark">See all Locations <span class="arrow"><i class="ri-arrow-right-line back"></i><i class="ri-arrow-right-line front"></i></span></a> -->
+                    <a data-aos="fade-up" data-aos-delay="200" href="about.php" class="circle-link aos-init aos-animate">See all <span class="arrow"><i class="ri-arrow-right-line back"></i><i class="ri-arrow-right-line front"></i></span></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
